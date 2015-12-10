@@ -6,6 +6,7 @@
     - Hinrich Paulsen (terrestris, HP)
     - Marc Jansen (terrestris, MJ)
     - Erdenebold (EIC, EB)
+    - Urangoo (EIC)
     - TODO: Add participants EIC
     - Bayasgalan, EIC
     - Batchimeg (EIC)
